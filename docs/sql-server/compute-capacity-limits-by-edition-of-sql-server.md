@@ -15,7 +15,12 @@ helpviewer_keywords:
 # Compute capacity limits by edition of SQL Server
 [!INCLUDE[sqlserver](../includes/applies-to-version/sqlserver.md)]
   This article discusses compute capacity limits for editions of [!INCLUDE[ssnoversion](../includes/ssnoversion-md.md)] and how they differ in physical and virtualized environments with hyperthreaded processors.  
-  
+
+
+> [!IMPORTANT] 
+> This article is not relevant to virtualized environments based on Hyper-V 2019 and newer using new “Core” scheduler.
+
+ 
  ![Mappings to compute capacity limits](../sql-server/media/compute-capacity-limits.gif "Mappings to compute capacity limits")  
   
  This table describes the notations in the preceding diagram:  
